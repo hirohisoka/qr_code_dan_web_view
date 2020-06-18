@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Flutter Plugins" type="FlutterPluginsLibraryType">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../MATERI SMESTER 4/P.Mobile/flutter_windows_1.17.1-stable/flutter/.pub-cache/hosted/pub.dartlang.org/webview_flutter-0.3.20+2" />
+      <root url="file://$PROJECT_DIR$/../MATERI SMESTER 4/P.Mobile/flutter_windows_1.17.1-stable/flutter/.pub-cache/hosted/pub.dartlang.org/barcode_scan-3.0.1" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
